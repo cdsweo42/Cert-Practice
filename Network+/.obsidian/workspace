@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "aa7f249ba43f1be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d94e48f229cfec77",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98e283c14a818a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba437d147c08eb34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c338632110095c8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d10474549df6a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7419ca87490f327f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfe0289414ef1d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad9f5e0a151d389",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d94e48f229cfec77",
+  "lastOpenFiles": [
+    "OSI Model.md",
+    "Networking Fundamentals.md"
+  ]
+}
